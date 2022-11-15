@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    background-color: yellow;
+    color: orangered;
+}
+
+ul, ol {
+    background-color: bisque;
+    color: hotpink;
+}
+
+.details {
+    background-color: cornflowerblue;
+    color: plum;
+    text-shadow: 1ch;
+}
+
+ol.instructions {
+    text-align: left;
+    background-color: indigo;
+    color: olive;
+    font-weight: 300;
+}
